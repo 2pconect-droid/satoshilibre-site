@@ -1,2 +1,6 @@
 # Ignorar o WordPress dentro de public_html
 /app/
+# Ignorar caches e build temporários
+node_modules/
+dist/
+build/
