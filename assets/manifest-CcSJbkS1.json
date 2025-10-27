@@ -1,0 +1,26 @@
+{
+  "short_name": "Satoshi Libre",
+  "name": "Satoshi Libre - Educação sobre Bitcoin",
+  "description": "Educação séria e análises aprofundadas sobre Bitcoin para investidores estratégicos no Brasil. Domine os fundamentos e proteja seu patrimônio.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0D1B2A",
+  "background_color": "#0D1B2A"
+}
